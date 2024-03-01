@@ -1,11 +1,11 @@
 {
   "name": "half-red-qr",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "author": "markpolo1224",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markpolo1224/half-red.git"
+    "url": "https://github.com/markpolo1224/half-red.git"
   },
   "homepage": "https://github.com/markpolo1224/half-red#readme",
   "description": "NestJS",
