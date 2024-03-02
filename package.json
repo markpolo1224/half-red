@@ -1,6 +1,6 @@
 {
   "name": "half-red-qr",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "author": "markpolo1224",
   "license": "ISC",
   "repository": {
@@ -53,6 +53,7 @@
     ]
   },
   "dependencies": {
+    "coolior": "^0.1.7",
     "@mikro-orm/core": "^6.0.0",
     "@mikro-orm/entity-generator": "^6.0.0",
     "@mikro-orm/migrations": "^6.0.0",
